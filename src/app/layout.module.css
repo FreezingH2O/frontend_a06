@@ -1,0 +1,10 @@
+.layout{
+display: flex;
+flex-direction: column;
+
+}
+
+.topMenu{
+    width: 100vw;
+    height: 2rem;
+}
